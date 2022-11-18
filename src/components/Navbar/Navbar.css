@@ -1,0 +1,65 @@
+.navbar{
+    height: 120px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.nav-top{
+    background: #ECECEC;
+    text-align: right;
+    padding: 5px 0;
+}
+.nav-top .login{
+    font-size: 16px;
+    font-weight: 700;
+    color: #666;
+}
+.nav-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.logo{}
+.logo img{
+    width: 150px;
+}
+.search-bar form{
+    display: flex;
+    align-items: center;
+}
+form .search{
+    width: 700px;
+    font-size: 18px;
+    border: none;
+    background: #F5F5F5;
+    padding: 20px 20px;
+}
+form .search:focus{
+    border: none;
+    outline: 0;
+}
+form .search-btn{
+    border: none;
+    background: #F85606;
+    padding: 16px;
+    cursor: pointer;
+}
+.search-icon{
+    font-size: 16px;
+    color: #fff;
+}
+.cart-icon{}
+.cart-icon .icon{
+    font-size: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

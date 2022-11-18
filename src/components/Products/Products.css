@@ -1,0 +1,11 @@
+.grid{
+        display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 30px;
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+
+.all_products{
+    margin-bottom: 10px;
+}
